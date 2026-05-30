@@ -9,7 +9,10 @@ Este repositorio contiene una implementación completa y didáctica de un **Sist
 - **Interfaz Gráfica de Escritorio:** GUI interactiva construida con Tkinter estructurada en módulos independientes para Emisor, Receptor y Firma Digital.
 
 ## Requisitos e Instalación
-El proyecto utiliza la librería estándar de Python por lo que no requiere dependencias externas complejas. Solo necesitas asegurar el entorno gráfico:
+El proyecto utiliza la librería estándar de Python por lo que no requiere dependencias externas complejas. Solo se necesita asegurar el entorno gráfico:
 ```bash
 python main.py
 ```
+
+## Créditos y Autoría
+Este proyecto fue desarrollado de forma grupal como parte del curso Matemática Computacional en la UPC. Integrantes: Jorge Castillón Alarcón, Renzo Cruz Mamani, Diego Díaz Urday, Sergio Landa Ortiz, Mathias Murillo Javier.
